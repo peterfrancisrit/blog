@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Data chit-chat for softer eyes"
 ---
 
-I'm glad you are here. I plan to talk about ... things and fish 
+I'm glad you are here.
