@@ -1,7 +1,12 @@
 ---
-title: "Expectation Management: Data Scientists' Ammunition"
+title: "SVM vs Gradient Boosting"
 date: 2022-07-29
 ---
+<!-- Protagonist: Data Scientist -->
+Beads of sweat rushed down his creased forehead. His smoker's breath, heavy, yet controlled. The muscles on his chest twerked and tweaked as strong vortices of air rushed in and out. The gold lining on his polyester shorts displayed visible mileage: streaks of fabric now bronze in color, and large lame pieces of gold shed onto the ring floor. His boots worked rhythmically, weaving in and out on the spring driven floor.
+"one, two. One, two. One, two, hook," he said [rev]. Procedural in his moves, he calculated his strikes. A solid body shot meets his opponent. 
+
+
 <!-- - LOGLINE: INCITING INCIDENT -->
 Data Scientists love expectations, but how do we feel about managing them? I've spent the past year attempting to bring expectation under a new light. The struggle is real, and it hit me like a truck: I did not manage my expectations. 
 <br></br>
