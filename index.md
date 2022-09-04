@@ -1,5 +1,5 @@
 ---
-title: "Softer Sides of Data"
+title: "A Semi-Professional Blog"
 ---
 
-I'm glad you are here. Let's be honest, you and I both know there are plenty of thorough, technical Data Science blogs out there. I approach this from the softer-side: communication side. I hope I don't come off as *meta* or *woke* -- technical blogs are rough the: math is just hard! So, sit back, relax, pour yourself a single-origin espresso, and enjoy mediocrity. 
+I've always wanted a blog: a canvas for the mind to realise ideas. But, is it possible to talk about my career, *and* my hobbies? Sure, why not. Will it affect my job prospects? Well, you tell me, hiring manager reading this page right now. 

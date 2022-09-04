@@ -2,7 +2,7 @@ title: A Blog (Of Sorts)
 author: Harry Ritchie
 email: harry.ritchie@ottobock.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm publishing my thoughts
+  Publishing my thoughts in a semi-professional way.
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  peterfrancisrit # DO NOT include the @ character, or else the build will fail!
