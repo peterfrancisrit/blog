@@ -16,7 +16,7 @@ A pinch to the brain<br>
 A reminder, "don't forget you're unhappy!"
 <br><br>
 Small emotions: a brief gust of wind, that carries you high up into the sky<br>
-And leaves you plummitting towards your stomach
+And leaves you plummeting towards your stomach
 <br><br>
 The emotions we neglect<br>
 Like the insects<br>
